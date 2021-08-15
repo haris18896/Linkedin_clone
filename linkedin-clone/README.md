@@ -72,4 +72,12 @@ const firebaseConfig = {
 ```
 6. clean your code by deleting some data from template, e.g app.test.js, logo.svg, and then clean your App.js code in /src/app.js, also clean App.css
 
-7. 
+*******************************************************************************************************
+installing Material UI.
+```
+npm install @material-ui/core
+
+npm install @material-ui/icons
+
+```
+
